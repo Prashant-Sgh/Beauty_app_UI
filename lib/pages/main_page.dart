@@ -120,7 +120,7 @@ class _MainPageState extends State<MainPage> {
                     decoration: BoxDecoration(
                         image: DecorationImage(
                             image: AssetImage(advertismentList[index])),
-                        // color: Colors.yellow,
+                        color: Colors.yellow,
                         borderRadius: BorderRadius.circular(10)),
                     // child: Text(
                     //   index.toString(),
